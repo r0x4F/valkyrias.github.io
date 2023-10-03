@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.box {
+    border-radius: 10px;
+    background-color: #cd95db;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.box .social {
+    display: flex;
+    gap: 10px;
+}
+
+.box img {
+    width: 200px;
+    height: auto;
+    margin-right: 10px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
