@@ -251,4 +251,4 @@ plugins:
   - jekyll-spaceship
 
 
-theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
